@@ -17,3 +17,9 @@ Notebook to extract regions of interest and ridges (ER) and calculate their dens
 
 ### local_spacing.ipynb (GPLv3)
 Notebook to compute the local spacing of ridge images. Local spacing calculation is based on the local_thickness plugin of Fiji (ImageJ) and was ported to python and adapted for our 2D use case.
+
+## Gallery
+Output of local_spacing.ipynb for given sythetic test image:
+<p align="center">
+  <img src="https://github.com/imsb-uke/exsrrf_analyses/gallery/test_ridges_img_output.png" width="85%"></img>
+</p>
