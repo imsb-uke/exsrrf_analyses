@@ -14,3 +14,6 @@ Notebook to extract regions of interest and ridges (slit diaphragm) and calculat
 
 ### ridges_er_stress.ipynb
 Notebook to extract regions of interest and ridges (ER) and calculate their densities
+
+### local_spacing.ipynb (GPLv3)
+Notebook to compute the local spacing of ridge images. Local spacing calculation is based on the local_thickness plugin of Fiji (ImageJ) and was ported to python and adapted for our 2D use case.
