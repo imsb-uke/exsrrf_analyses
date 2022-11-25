@@ -20,6 +20,10 @@ Notebook to compute the local spacing of ridge images. Local spacing calculation
 
 ## Gallery
 Output of local_spacing.ipynb for given sythetic test image:
+1. original
+2. distance transformed image
+3. ridge image
+4. local spacing image
 <p align="center">
   <img src="https://github.com/imsb-uke/exsrrf_analyses/blob/main/gallery/test_ridges_img_output.png" width="85%"></img>
 </p>
